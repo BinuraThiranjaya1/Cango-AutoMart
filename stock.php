@@ -147,13 +147,13 @@
                             <a href="#navbar" style="color: white"><i class="far fa-arrow-alt-circle-right" style="color: white"></i> Home</a>
                         </li>
                         <li>
-                            <a href="stock.php" style="color: white"><i class="far fa-arrow-alt-circle-right" style="color: white"></i> Stock</a>
+                            <a href="/stock.php" style="color: white"><i class="far fa-arrow-alt-circle-right" style="color: white"></i> Stock</a>
                         </li>
                         <li>
                             <a href="#partner" style="color: white"><i class="far fa-arrow-alt-circle-right" style="color: white"></i> About Us</a>
                         </li>
                         <li>
-                            <a href="login.php" style="color: #017BFE"><i class="far fa-arrow-alt-circle-right" style="color: white"></i> Login</a>
+                            <a href="/login.php" style="color: #017BFE"><i class="far fa-arrow-alt-circle-right" style="color: white"></i> Login</a>
                         </li>
                     </ul>
                 </div>
