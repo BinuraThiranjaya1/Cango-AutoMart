@@ -74,22 +74,22 @@
         <p class="text-center text-white">PARTNERSHIP</p>
         <div class="row justify-content-md-center" >
             <div class="col col-lg-2">
-                <img src="./img/lb-logo.png" alt="" class="img-thumbnail">
+                <img src="img/finance-logo/lb-logo.png" alt="" class="img-thumbnail">
             </div>
             <div class="col col-lg-2">
-                <img src="./img/com-finance.png" alt="" class="img-thumbnail">
+                <img src="img/finance-logo/com-finance.png" alt="" class="img-thumbnail">
             </div>
             <div class="col col-lg-2">
-                <img src="./img/lb-logo.png" alt="" class="img-thumbnail">
+                <img src="img/finance-logo/lb-logo.png" alt="" class="img-thumbnail">
             </div>
             <div class="col col-lg-2">
-                <img src="./img/lb-logo.png" alt="" class="img-thumbnail">
+                <img src="img/finance-logo/lb-logo.png" alt="" class="img-thumbnail">
             </div>
             <div class="col col-lg-2">
-                <img src="./img/lb-logo.png" alt="" class="img-thumbnail">
+                <img src="img/finance-logo/lb-logo.png" alt="" class="img-thumbnail">
             </div>
             <div class="col col-lg-2">
-                <img src="./img/lb-logo.png" alt="" class="img-thumbnail">
+                <img src="img/finance-logo/lb-logo.png" alt="" class="img-thumbnail">
             </div>
         </div>
     </div>
